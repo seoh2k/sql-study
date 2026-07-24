@@ -1,3 +1,10 @@
+훌륭합니다! 폴더를 만들어서 정리하셨다니 훨씬 깔끔한 저장소가 될 거예요.
+
+새로 만드신 ch01_조인_내부조인 폴더 구조와, 앞서 보여주셨던 노트 내용(실습 데이터 준비 및 내부 조인)에 맞춰서 README의 목차 부분을 수정했습니다.
+
+아래 코드를 복사해서 README 파일에 덮어쓰기 하시면 됩니다!
+
+Markdown
 # 📖 SQL Study & TIL (Today I Learned)
 
 > **"매일 조금씩 성장하는 데이터 분석/개발 공부 기록입니다."**
@@ -7,26 +14,26 @@
 <br>
 
 ## 🛠️ Tech Stack
-<!-- 뱃지를 이용해 사용하는 기술을 시각적으로 표현합니다 -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 <br>
 
 ## 📂 학습 목차 (Curriculum)
 
-| 주차 / 챕터 | 주제 | 주요 내용 | 링크 |
+| 챕터 | 주제 | 주요 내용 | 링크 |
 | :---: | :--- | :--- | :---: |
-| Ch 01 | SQL 기본 및 데이터 세팅 | 데이터베이스 생성, 테이블 구조 이해 | [이동](./ch01) |
-| Ch 02 | 데이터 조회 (SELECT) | `SELECT`, `WHERE`, `ORDER BY` | [이동](./ch02) |
-| Ch 03 | 조인 (JOIN) | `INNER JOIN`, `LEFT JOIN` 활용 | [이동](./ch03) |
-| Ch 04 | 집계와 그룹화 | `GROUP BY`, `HAVING` | [이동](./ch04) |
+| **Ch 01** | **데이터 세팅 및 내부 조인** | 실습 테이블 준비 및 `INNER JOIN` 기본 문법 | [이동](./ch01_조인_내부조인) |
+| Ch 02 | (다음 학습 주제) | | |
+| Ch 03 | (다음 학습 주제) | | |
+
+*※ 앞으로 학습을 진행하며 폴더와 목차를 계속 추가할 예정입니다.*
 
 <br>
 
 ## 🎯 학습 목표
-- [x] SQL 기본 강의 완강하기
-- [ ] 프로그래머스 SQL 고득점 Kit 모든 문제 풀이
-- [ ] 배운 내용을 바탕으로 미니 프로젝트 진행해보기
+- [x] 깃허브 및 노션 학습 환경 세팅 완료! 🎉
+- [ ] SQL 기본 강의 완강하기
+- [ ] 프로그래머스 SQL 고득점 Kit 문제 풀이
 
 <br>
 
